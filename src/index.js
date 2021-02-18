@@ -115,6 +115,7 @@ class Game extends React.Component {
                 />
                 </div>
                 <div className="game-info">
+                <h5>Mari e Adams</h5>
                 <div>{status}</div>
                 <ol>{moves}</ol>
                 </div>
